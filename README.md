@@ -1,8 +1,10 @@
 Caesar Cipher
 Description
+
 This is my first project at PRODIGYINFOTECH Internship program, it is a simple Python program that implements the Caesar Cipher algorithm for encrypting and decrypting text. The Caesar Cipher is a basic encryption technique where each letter in the text is shifted by a certain number of places in the alphabet. This project allows users to input a message and a shift value to perform encryption and decryption.
 
 Features
+
 Encrypts text using the Caesar Cipher algorithm.
 Decrypts text using the Caesar Cipher algorithm.
 Allows users to input custom messages and shift values.
@@ -34,6 +36,7 @@ Enter the Shift Value: Enter an integer value for the shift.
 Example plaintext Enter the message: HELLO Enter the shift value: 3 Encrypted message: KHOOR Decrypted message: HELLO
 
 Learning Outcomes
+
 Basic Python Programming: Understanding basic syntax and functions.
 
 String Manipulation: Learning how to manipulate strings using ASCII values.
@@ -45,6 +48,7 @@ Version Control: Gaining experience with Git and GitHub for version control and 
 Documentation: Recognizing the value of clear and detailed documentation.
 
 Contribution
+
 Feel free to fork this repository, submit issues, and send pull requests. Contributions are welcome!
 
 License
