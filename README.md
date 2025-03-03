@@ -49,10 +49,7 @@ Documentation: Recognizing the value of clear and detailed documentation.
 
 Contribution
 
-Feel free to fork this repository, submit issues, and send pull requests. Contributions are welcome!
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Feel free to submit issues, and send pull requests. Contributions are welcome!
 
 Connect with Me
-I'm eager to apply my skills in a professional setting and contribute to innovative cybersecurity solutions. If you have any opportunities or would like to collaborate, feel free to reach out!
+I'm eager to apply my skills in a professional setting and contribute to innovative cybersecurity solutions. If you have any opportunities or would like to collaborate, feel free to reach out: gracevine2008@gmail.com!
